@@ -23,7 +23,7 @@ DOI = {10.3390/rs12101667}
 
 ## Part II: Applications
 
-Submitted to MDPI Remote Sensing 24.08.2020
+Accepted for publication in MDPI Remote Sensing 16.09.2020
 
 **Appendix A. Table of Reviewed Publications**
 
